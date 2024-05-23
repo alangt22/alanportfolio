@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Pokedex",
+    "imageSrc": "projects/pokedex.JPG",
+    "description": "Pokedex Page Consumindo API",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://alangt22.github.io/Pokedex/",
+    "source": "https://github.com/alangt22/Pokedex"
+  },
+  {
+    "title": "Buscador Cep",
+    "imageSrc": "projects/cep.JPG",
+    "description": "Buscador de CEP consumindo API",
+    "skills": ["React", "JavaScript","HTML"],
+    "demo": "https://buscador-cep22.netlify.app/",
+    "source": "https://github.com/alangt22/buscadorcep"
+  },
+  {
+    "title": "ListaTW",
+    "imageSrc": "projects/listaTarefas.JPG",
+    "description": "Lista de Tarefas Com Django Crud ",
+    "skills": ["Django","HTML","Python"],
+    "demo": "http://alannunes22.pythonanywhere.com/",
+    "source": "https://github.com/alangt22/ListaTarefas"
+  },
+  {
+    "title": "Luavet",
+    "imageSrc": "projects/luavet.JPG",
+    "description": "Landing Page Simples Com links de contatos",
+    "skills": ["HTML","CSS","JavaScript"],
+    "demo": "https://alangt22.github.io/luavet/",
+    "source": "https://github.com/alangt22/luavet"
+  }
+]
