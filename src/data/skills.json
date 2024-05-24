@@ -26,6 +26,11 @@
   {
     "title": "Django",
     "imageSrc": "skills/Dj.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/ts.png"
   }
+
 
 ]
