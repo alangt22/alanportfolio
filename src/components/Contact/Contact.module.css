@@ -10,7 +10,9 @@
 .direito {
   display: flex;
   width: 20px;
-  margin-left: -420px;
+  background-color: aliceblue;
+  border-radius: 50px;
+  margin-left: -430px;
   margin-bottom:-20px;
 }
 
@@ -109,14 +111,14 @@
   }
   .direito{
     display: flex;
-    width: 30px;
-    margin-left: -40px;
-    margin-bottom:-25px;
+    width: 20px;
+    margin-left: -20px;
+    margin-bottom:-20px;
   }
   .alan a{
     display: flex;
     text-decoration: none;
     color: white;
-    margin-left: -10px;
+    margin-left: 10px;
   }
 }

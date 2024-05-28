@@ -24,11 +24,27 @@
     "source": "https://github.com/alangt22/ListaTarefas"
   },
   {
-    "title": "Luavet",
-    "imageSrc": "projects/luavet.JPG",
-    "description": "Landing Page Simples Com links de contatos",
+    "title": "PizzaShop",
+    "imageSrc": "projects/pizza.JPG",
+    "description": "Landing Page para pizzaria",
     "skills": ["HTML","CSS","JavaScript"],
-    "demo": "https://alangt22.github.io/luavet/",
-    "source": "https://github.com/alangt22/luavet"
+    "demo": "https://alangt22.github.io/pizzashop",
+    "source": "https://github.com/alangt22/pizzashop"
+  },
+  {
+    "title": "Luavet",
+    "imageSrc": "projects/luavet1.JPG",
+    "description": "Landing Page  Com links de contatos",
+    "skills": ["HTML","SCSS","JavaScript"],
+    "demo": "https://luavet.netlify.app/",
+    "source": "https://github.com/alangt22/luavet-veterinaria"
+  },
+  {
+    "title": "Barber Dev",
+    "imageSrc": "projects/barber.JPG",
+    "description": "Landing Page Com links de contatos",
+    "skills": ["HTML","SCSS","JavaScript"],
+    "demo": "https://barbeariadev.netlify.app/",
+    "source": "https://github.com/alangt22/Barbearia"
   }
 ]
