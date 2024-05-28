@@ -18,7 +18,6 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
-  margin-left:-180px;
   margin-bottom: 50px;
 }
 
@@ -104,5 +103,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left:-180px;
   }
 }

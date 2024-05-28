@@ -28,10 +28,10 @@ export const ProjectCard = ({
       </ul>
       
       <div className={styles.links}>
-        <a href={demo} className={styles.link}>
+        <a href={demo} className={styles.link} target="_blank"> 
           Projeto
         </a>
-        <a href={source} className={styles.link}>
+        <a href={source} className={styles.link} target="_blank">
           Repositorio
         </a>
       </div>
