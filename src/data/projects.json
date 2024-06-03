@@ -46,5 +46,13 @@
     "skills": ["HTML","SCSS","JavaScript"],
     "demo": "https://barbeariadev.netlify.app/",
     "source": "https://github.com/alangt22/Barbearia"
+  },
+  {
+    "title": "Dev Burguer",
+    "imageSrc": "projects/burg.JPG",
+    "description": "Cardapio Com link e Carrinho",
+    "skills": ["HTML","TailWindCSS","JavaScript"],
+    "demo": "https://alnburguer.netlify.app/",
+    "source": "https://github.com/alangt22/cardapio"
   }
 ]
