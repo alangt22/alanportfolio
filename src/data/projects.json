@@ -51,7 +51,7 @@
     "title": "Dev Burguer",
     "imageSrc": "projects/burg.JPG",
     "description": "Cardapio Com link e Carrinho",
-    "skills": ["HTML","TailWindCSS","JavaScript"],
+    "skills": ["HTML","JavaScript","TailWindCSS"],
     "demo": "https://alnburguer.netlify.app/",
     "source": "https://github.com/alangt22/cardapio"
   }
