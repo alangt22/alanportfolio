@@ -20,7 +20,7 @@ export const About = () => {
               <h3>Desenvolvedor Front-End</h3>
               <p>
               Sou um desenvolvedor front-end que cria soluções responsivas e
-                sites otimizados com experiência em projetos pessoais
+                sites otimizados com experiência em projetos pessoais 
               </p>
             </div>
           </li>
@@ -29,7 +29,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Formação</h3>
               <p>
-                Análise e Desenvolvimento de Sistemas (Universidade Cruzeiro do Sul) - Terceiro semestre cursando
+                Cursando quarto semestre superior em Análise e Desenvolvimento de Sistemas (Universidade Cruzeiro do Sul) 
               </p>
             </div>
           </li>

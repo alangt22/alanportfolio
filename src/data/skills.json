@@ -24,13 +24,15 @@
     "imageSrc": "skills/Js.png"
   },
   {
-    "title": "Django",
-    "imageSrc": "skills/Dj.png"
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.png"
   },
   {
     "title": "TypeScript",
     "imageSrc": "skills/ts.png"
+  },
+  {
+    "title": "Sass",
+    "imageSrc": "skills/pngwing.com.png"
   }
-
-
 ]

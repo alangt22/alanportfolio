@@ -8,7 +8,7 @@ export const Contact = () => {
   return (
     <footer id="contact" className={styles.container}>
       <div className={styles.text}>
-      <Box position="absolute" width={"20%"} top={3590} right={1200}>
+      <Box position="absolute" width={"20%"} top={4320} right={1000}>
         <AnimatedBackground />
       </Box>
         <h2>Contatos</h2>
