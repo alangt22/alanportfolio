@@ -24,14 +24,6 @@
     "source": "https://github.com/alangt22/luavet-veterinaria"
   },
   {
-    "title": "Dev Burguer",
-    "imageSrc": "projects/burg.JPG",
-    "description": "Cardapio Com link e Carrinho",
-    "skills": ["HTML","JavaScript","TailWindCSS"],
-    "demo": "https://alnburguer.netlify.app/",
-    "source": "https://github.com/alangt22/cardapio"
-  },
-  {
     "title": "Pokedex",
     "imageSrc": "projects/pokedex.JPG",
     "description": "Pokedex Page Consumindo API",
@@ -54,14 +46,6 @@
     "skills": ["HTML","SCSS","JavaScript"],
     "demo": "https://barbeariadev.netlify.app/",
     "source": "https://github.com/alangt22/Barbearia"
-  },
-  {
-    "title": "Loja Eletronicos",
-    "imageSrc": "projects/alntest.png",
-    "description": "Loja de eletronicos consumindo API",
-    "skills": ["HTML","React","Typescript"],
-    "demo": "https://aln-projeto-test.netlify.app/",
-    "source": "https://github.com/alangt22/projetotest"
   },
   {
     "title": "ListaTW",
