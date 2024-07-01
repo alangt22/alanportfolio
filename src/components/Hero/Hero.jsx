@@ -21,7 +21,7 @@ export const Hero = () => {
         <a href="https://api.whatsapp.com/send/?phone=5511940094503&text&type=phone_number&app_absent=0" className={styles.contactBtn}>
           Contate-me
         </a>
-        <a href="https://drive.google.com/file/d/1jMumYDMwpcHLW8q0uYVO1S47092TVBZw/view" className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1VS68nhgaASJCBBIAtvXD84-kY6QDoXyk/view" className={styles.contactBtn}>
           Curriculo PDF
         </a>
       </div>
