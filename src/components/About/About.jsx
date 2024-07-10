@@ -17,10 +17,10 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Desenvolvedor Front-End</h3>
+              <h3>Desenvolvedor Full-Stack</h3>
               <p>
-              Sou um desenvolvedor front-end que cria soluções responsivas e
-                sites otimizados com experiência em projetos pessoais 
+              Sou um estudante com habilidades em desenvolvimento Full Stack, focado em projetos pessoais. Tenho experiência em front-end utilizando JavaScript, HTML, CSS e React.js para criar interfaces interativas e responsivas. No back-end, estou me aprimorando em Node.js e Python com Django, desenvolvendo APIs e aplicações web.
+Estou comprometido em aprender continuamente e em expandir minhas habilidades Full Stack para contribuir de forma eficaz em projetos desafiadores.
               </p>
             </div>
           </li>

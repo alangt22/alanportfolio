@@ -16,12 +16,12 @@ export const Hero = () => {
         
         <h1 className={styles.title}>Olá, sou Alan Nunes</h1>
         <p className={styles.description}>
-          Desenvolvedor Front-End
+          Desenvolvedor Full-Stack
         </p>
         <a href="https://api.whatsapp.com/send/?phone=5511940094503&text&type=phone_number&app_absent=0" className={styles.contactBtn}>
           Contate-me
         </a>
-        <a href="https://drive.google.com/file/d/1VS68nhgaASJCBBIAtvXD84-kY6QDoXyk/view" className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1DEGfBn_6lKgg2kB_sJGHCPgi4hPOMj5y/view" className={styles.contactBtn}>
           Curriculo PDF
         </a>
       </div>
